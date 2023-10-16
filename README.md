@@ -1,6 +1,6 @@
 # Neural_Network_Framework
 
-A simplified neural network framwork
+A simplified neural network framework
 
 ComputeLayers.py: Forward and backward propagation for all kinds of layers.
 
